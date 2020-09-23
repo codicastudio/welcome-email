@@ -1,10 +1,8 @@
 {
-    "name": "codicastudio/welcomeemail",
-    "description": "A noobs worthless garbage, just learning.",
-    "keywords": [
-        "worthless garabage by a noob."
-    ],
-    "homepage": "https://github.com/codicastudio/welcomeemail",
+    "name": "codica-studio/welcomeemail",
+    "description": "A random Codica Studio package.",
+
+    "homepage": "https://github.com/codica-studio/welcomeemail",
     "license": "MIT",
     "authors": [
         {
@@ -15,7 +13,7 @@
         }
     ],
     "require": {
-        "php": "^7.4",
+        "php": "^7.4 || ^8.0",
         "illuminate/auth": "^8.0",
         "illuminate/notifications": "^8.0",
         "illuminate/queue": "^8.0"
