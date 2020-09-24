@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/welcomeemail",
+    "name": "codicastudio/welcome-email",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/welcomeemail",
+    "homepage": "https://github.com/codicastudio/welcome-email",
     "license": "MIT",
     "authors": [
         {
@@ -47,6 +47,6 @@
             ]
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
